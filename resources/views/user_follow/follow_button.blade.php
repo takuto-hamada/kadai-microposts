@@ -10,3 +10,5 @@
             {!! Form::submit('Follow', ['class' => "btn btn-primary btn-block"]) !!}
         {!! Form::close() !!}
     @endif
+@endif
+    
